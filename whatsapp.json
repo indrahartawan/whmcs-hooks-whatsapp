@@ -1,0 +1,9 @@
+{
+   "whatsapp_api_url"     : "your_whatsapp_api_url", 
+    "whatsapp_api_userkey" : "your_whatsapp_api_userkey",
+    "whatsapp_api_passkey" : "your_whatsapp_api_passkey",
+    "whatsapp_api_key"     : "your_whatsapp_api_key_or_token", 
+    "whatsapp_api_license" : "your_whatsapp_api_license", 
+    "adminuser" : "your_whmcs_admin_username",
+    "debug"     : true
+ }
